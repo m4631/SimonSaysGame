@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4C5B</color>
+    <color name="letter_color">#FFFFFF</color>
+    <color name="simon_button_01">#192CFF</color>
+    <color name="simon_button_02">#FF4C5B</color>
+    <color name="simon_button_03">#FFE047</color>
+    <color name="simon_button_04">#69DD2E</color>
+    <color name="simon_button_highlight_01">#87A1FF</color>
+    <color name="simon_button_highlight_02">#FF7280</color>
+    <color name="simon_button_highlight_03">#FFEAAD</color>
+    <color name="simon_button_highlight_04">#A7DB8C</color>
+</resources>

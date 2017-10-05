@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">GameApp</string>
+    <string name="game_title">Simon Says</string>
+    <string name="game_logo">Simon Says Logo</string>
+    <string name="start_game_button">Start New Game</string>
+    <string name="restart_game_button">Restart Game</string>
+    <string name="first_player_score">First player</string>
+    <string name="second_player_score">Second player</string>
+    <string name="score">Scored points</string>
+    <string name="multi_player">Multi-player</string>
+    <string name="single_player">Single-player</string>
+    <string name="player_name_entry">Enter player/team name</string>
+    <string name="leadership_board_img">Leadership board</string>
+    <string name="leadership_board_button">Visit Leadership board</string>
+    <string name="sound_preference_img">Sound preference</string>
+    <string name="missing_parameters_title">Missing parameters</string>
+    <string name="missing_parameters_message">Please enter your player name or your team name before starting the game</string>
+    <string name="single_player_turn">Your turn!</string>
+    <string name="multi_player_first_turn">First player turn</string>
+    <string name="multi_player_second_turn">Second player turn</string>
+    <string name="machine_win_message">The Machine is the winner!!</string>
+    <string name="win_message"> is the winner!!</string>
+    <string name="first_player_win_message">First player wins!!</string>
+    <string name="second_player_win_message">Second player wins!!</string>
+    <string name="max_score_team">Max score for the team: </string>
+    <string name="end_game_title">Game over</string>
+    <string name="replay_button">Replay</string>
+    <string name="exit_button">Exit</string>
+    <string name="game_instructions">Game Instructions</string>
+    <string name="game_instructions_message">Simon is always the first player. In order for your to conquer this game you will always have to do as Simon says. At the end check out our Leadership board.</string>
+    <string name="ok_button">Ok</string>
+    <string name="push_toast">Welcome to Push Notification</string>
+    <string name="leadership_board">Leadership Board</string>
+</resources>

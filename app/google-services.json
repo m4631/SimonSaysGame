@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "228141604216",
+    "firebase_url": "https://gameapp-f43a7.firebaseio.com",
+    "project_id": "gameapp-f43a7",
+    "storage_bucket": "gameapp-f43a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228141604216:android:34664157f682e77a",
+        "android_client_info": {
+          "package_name": "com.example.mageroni.gameapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228141604216-q8795ujt68520f4a9h91k5bqj3dr6tpc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mageroni.gameapp",
+            "certificate_hash": "9ababfe997b68503d07a8a26889c1d61fafc1c69"
+          }
+        },
+        {
+          "client_id": "228141604216-c0er4hpcmosvil3oc1cetcosaairo0r6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2bBq4ECmUnEwtTL1os3j70LPkg6G09zk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228141604216-c0er4hpcmosvil3oc1cetcosaairo0r6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
